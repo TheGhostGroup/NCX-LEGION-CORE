@@ -1,0 +1,19 @@
+# Hashes of file build rules.
+bbf915d0e4ca988a180910889e6699b2 CMakeFiles/uninstall
+6d3aa99cf19e62a1525722dd7cac9478 src/common/CMakeFiles/generate_commonPCH.cpp
+4ceeda0d96e69c55a4285699f6f0dcf9 src/common/commonPCH.h.gch
+604171d01722478d50db663f465f80b1 src/genrev/CMakeFiles/revision_data.h
+37ccdbf6b3187a1a7d858a849b470b06 src/server/bnetserver/CMakeFiles/generate_bnetPCH.cpp
+f13c3610ef125cfc4fc285a46b385a1b src/server/bnetserver/bnetPCH.h.gch
+86b29aec36a9ae47bfba40a9ed9ec3a4 src/server/game/CMakeFiles/generate_gamePCH.cpp
+5a89bf87cac41336c83f06b5721bc9d2 src/server/game/gamePCH.h.gch
+076a838648cb97d58c2f9c4509e7a98f src/server/newscripts/CMakeFiles/generate_NewScriptPCH.cpp
+69889538e38ec088185a95dd010b9f7d src/server/newscripts/NewScriptPCH.h.gch
+b9a867b2460c477161cf535dc855ddba src/server/proto/CMakeFiles/generate_protoPCH.cpp
+d2a5b975c0edd9ab3fb123fc9fc2f422 src/server/proto/protoPCH.h.gch
+fc772e40f4ef053e29f641c8a7fc0b84 src/server/scripts/CMakeFiles/generate_ScriptPCH.cpp
+6bfdc7b5e7ba66957d767da3503ab367 src/server/scripts/ScriptPCH.h.gch
+33ba572f9eba16eafe28b5c4b4eef272 src/server/shared/CMakeFiles/generate_sharedPCH.cpp
+30bea2cb5b325f74ecf503068d3f766a src/server/shared/sharedPCH.h.gch
+ae303089985e60bb9e80a5347d9f2a8e src/server/worldserver/CMakeFiles/generate_worldPCH.cpp
+83530f2bedb943b28249594b91a9d127 src/server/worldserver/worldPCH.h.gch

@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -O3 -DNDEBUG  -shared  -o libworldPCH.cpp_dephelp.so CMakeFiles/worldPCH.cpp_dephelp.dir/PrecompiledHeaders/worldPCH.cpp.o 

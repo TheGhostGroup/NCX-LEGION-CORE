@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -O3 -DNDEBUG  -shared  -o libbnetPCH.cpp_dephelp.so CMakeFiles/bnetPCH.cpp_dephelp.dir/PrecompiledHeaders/bnetPCH.cpp.o 

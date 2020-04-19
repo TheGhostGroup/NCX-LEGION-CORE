@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -w -O3 -DNDEBUG  -shared  -o libprotoPCH.cpp_dephelp.so CMakeFiles/protoPCH.cpp_dephelp.dir/PrecompiledHeaders/protoPCH.cpp.o 

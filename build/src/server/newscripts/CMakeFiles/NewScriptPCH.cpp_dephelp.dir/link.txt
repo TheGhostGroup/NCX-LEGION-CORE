@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++11 -O3 -DNDEBUG  -shared  -o libNewScriptPCH.cpp_dephelp.so CMakeFiles/NewScriptPCH.cpp_dephelp.dir/PrecompiledHeaders/NewScriptPCH.cpp.o 
